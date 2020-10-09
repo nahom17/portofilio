@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="Eng">
+    <head>
+       
+		    <meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1.0">
+			<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+			<meta name="HandheldFriendly" content="true">     
+            <meta name="language" content="English">
+            <meta name="author" content="Nahom Tesfamichael">
+            <meta name="description" content="test web">
+            <meta name="keywords" content="HelloWorld,test">
+            <meta name="copyright" content="copyright">
+		
+        <link rel="stylesheet" href="style.css">
+        <style>
+            form{
+                width:80%;
+                margin: 10% auto;
+                text-align: center;
+
+            }
+			::placeholder{
+				color:teal;
+			}
+            legend{
+                font-size: 1.5em;
+                font-weight: bold;
+
+            }
+            fieldset{
+                border: 2px solid #009D22;
+                width: 50%;
+                margin: auto;
+                border-radius: 7px;
+                background-image: linear-gradient(to bottom,hsl(0,80%,50%),#bada55);
+            }
+            input,select,textarea{
+                border:1px solid rgb(0,34,0);
+                margin:5px;
+                padding: 5px 30px 5px 50px;
+                width: 50%;
+                text-align: center;
+                font-size: 1em;
+                border-radius: 7px;
+            }
+			@media only screen and (max-width:500px){
+				form{
+                width:300px;
+			
+                margin-right:10%;
+					text-align: center;
+				}
+				fieldset{
+					width:100%;
+				}
+			}
+        </style>
+        <title>Contact Me</title>
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="aboutme.html">About Me</a></li>
+                <li><a href="skills.html">Skills</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <main>
+            <form name="formuler" action="mailto:nahomtesfamichael@nahomtesfamichael.nl" method="POST">
+                <fieldset>
+                    <legend><p style="margin-bottom:10%; background-color:white;">Contact US</p></legend><hr>
+                    <input required type="text" id="name" name="name" placeholder="Enter Your FullName"><br>
+                    <input required type="email" id="email" name="emil" placeholder="Enter Your vaild email"><br>
+                    <input required type="tel" id="mobile" name="mobile" placeholder="Enter Your telephone Number"><br>
+                    <input required type="text" id="residence" name="residence" placeholder="residence" list="province">
+                    <datalist id="province">
+                        <option value="Drenthe"></option>
+                        <option value="Flevoland"></option>
+                        <option value="Friesland">Fryslan</option>
+                        <option value="Gelderland"></option>
+                        <option value="Greunienge">Groningen</option>
+                        <option value="Limburg"></option>
+                        <option value="Noord-Braebant">Noord-Brabant</option>
+                        <option value="Noord-Olland">Noord-Holland</option>
+                        <option value="Overiessel">Overijssel</option>
+                        <option value="Utrecht"></option>
+                        <option value="Zeeland"></option>
+                        <option value="Zuud-Holand">Zuid-Holland</option>
+                        </option>
+                    </datalist>
+                    <br>
+                    <textarea cols="35" rows="5" placeholder="type here your comment or question.... "></textarea>
+                    <br>
+
+
+
+                </fieldset>
+                <input type="submit" id="submit" name="submit" value="submit">
+            </form>
+        </main>
+    
+        </body>
+
+    <footer>
+        <a href="https://twitter.com/Nahomtesfamich3"><img src="images/twitter.png" alt="x"></a>
+        <a href="https://www.youtube.com/channel/UCIMHXf1qvVBxoYfWFpk9hiw?view_as=subscriber"><img src="images/youtube.png"  alt="Y"></a>
+        <a href="https://www.facebook.com/nahom.tesfamichael.90"><img src="images/facebook.png" alt="x"></a>
+        <a href="https://www.linkedin.com/in/nahom-tesfamichael-87a2a7135/"><img src="images/linkedin.png" alt="L"></a>
+        
+        <p>copyright  &copy; 2020  <i> developed by:  Nahom tesfamichael </i> All Rights reserved.</p>
+    </footer>
+
+</html>

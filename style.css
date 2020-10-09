@@ -1,0 +1,178 @@
+html{
+    background-image:url(images/back-img.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+	width:100%;
+	height:100%;
+ 
+    
+    
+}
+p h1 h3 h4{
+    text-rendering: optimizeLegibility;
+}
+
+
+
+
+
+
+nav{
+    width: 100%;
+}
+nav ul{
+    text-align: center;
+    margin:3%;
+    padding-right:5%;
+    
+}
+nav ul li{
+    width: 100%;
+    color:black;
+    display:contents;
+    font-size:smaller;
+    float: left;
+    text-align: left;
+    border:10px solid black;
+}
+nav ul li a{
+    font-size: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    opacity: 1;
+    background-color: gold;
+    margin: 3%;
+    position: relative;
+    color:black;
+    border:5px solid silver;
+    border-radius: 7pc;
+	text-decoration:none;
+	
+}
+
+#learn_more a{
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float:left;
+    margin-top:10%;
+    margin-bottom: 15%;
+    margin-left: 50%;
+    border: 3px solid gold;
+    border-radius: 7pc;
+    background-color: rgb(17, 2, 102);
+}
+#My_CV a{
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float: right;
+    margin-top: 10%;
+    margin-bottom: 15%;
+    margin-right:30%;
+    border: 3px solid gold;
+    border-radius: 70pc;
+    background-color:rgb(17, 2,102);
+}
+/*style for About me page*/
+#about-logo img {
+    width:20%;
+    height:10%;
+    margin:3% auto;
+    border: 1px solid gold;
+    border-radius:7px ;
+
+}
+.introduction-section,
+.location-section,
+.questions-section {
+    max-width: 38em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:3% auto;
+    background-color:none;
+}
+section{
+    background-color:none;
+
+}
+
+.introduction-section > p,
+.location-section > p,
+.questions-section,
+.content-footer > p {
+    /* Typography Declarations */
+    font-weight: 300;
+    letter-spacing: 0.05em;
+}
+
+    
+
+footer{
+  position:relative;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: 0;
+  float: left;
+  text-align: center;
+  width: 100%;
+  padding-top: 10px;
+  background: skyblue;
+
+  
+}
+footer img {
+    margin: 0%;
+    width: 4%;
+}
+ 
+
+
+.aboutme h3{
+    
+
+    color:rgb(11, 12, 12);
+    background:none;
+    font-weight: 100;
+    margin: 50px;
+    align-items: center;
+    position: relative;
+    text-align: center;
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+*{
+    font-family: sans-serif;
+    list-style: none;
+    padding: 0;
+}
+@media only screen and (max-width:500px){
+    nav ul li a {
+		border:none !important;
+		background-color:aqua ;
+		margin:3%; 
+	}
+        
+		
+    
+        
+    }
+	body{
+		background-color:aqua;
+		opacity:1;
+	}
+html{
+	width:100%;
+	height:100%;
+}
+
+		
+}
+
+/*.logo img{
+    text-align:right;
+    width:200px;
+    height:200px;
+    margin-left:15%;
+    border: 5px solid gold;
+    border-radius:7pc ;*/
+}

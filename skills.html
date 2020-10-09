@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="Eng">
+    <head>
+        	<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+			<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+			<meta name="HandheldFriendly" content="true">
+            <meta name="language" content="English">
+            <meta name="author" content="Nahom Tesfamichael">
+            <meta name="description" content="test web">
+            <meta name="keywords" content="HelloWorld,test">
+            <meta name="copyright" content="copyright">
+			<meta name="google-site-verification" content="di5qv9vuT2YgMAV-WihyO607hGFH3Bf3_tcmxUbdRnc" />
+        
+            <link rel="stylesheet" href="style.css">
+            <style>
+                .gallery {
+                    display: grid;
+                    grid-template-columns: repeat(8, 1fr);
+                    grid-template-rows: repeat(8, 5vm);
+                    grid-gap:1px;
+                    margin-left:10%;
+                    margin-top:0%;
+                    margin-bottom: 0%;
+                }
+                .gallery__img {
+                    max-width:100%;
+					
+                  
+				} a{
+					color:blue;
+				}
+				
+                /*this help us to define the where should the item palced */
+                .gallery__item--1 {
+                        grid-column-start: 1;
+                        grid-column-end: 3;
+                        grid-row-start: 1;
+                        grid-row-end: 3;
+                }
+                .gallery__item--2 {
+                        grid-column-start: 3;
+                        grid-column-end: 5;
+                        grid-row-start: 1;
+                        grid-row-end: 3;
+                    }
+                   
+                    .gallery__item--3 {
+                        grid-column-start: 5;
+                        grid-column-end: 7;
+                        grid-row-start: 1;
+                        grid-row-end: 3;
+                    }
+                    .gallery__item--4 {
+                        grid-column-start: 1;
+                        grid-column-end: 3;
+                        grid-row-start: 4;
+                        grid-row-end: 6;
+                    }
+                    .gallery__item--5 {
+                        grid-column-start: 3;
+                        grid-column-end: 5;
+                        grid-row-start: 4;
+                        grid-row-end: 6;
+                    }
+				@media only screen and (max-width:500px){
+					.gallery {
+						background-color:none;
+						width:100%;
+						height:100%;
+						opacity:1.6;
+					} 
+					 
+						   .gallery__item--1 {
+                        grid-column-start: 1;
+                        grid-column-end: 5;
+                        grid-row-start: 1;
+                        grid-row-end: 5;
+                }
+                .gallery__item--2 {
+                        grid-column-start: 5;
+                        grid-column-end: 9;
+                        grid-row-start: 1;
+                        grid-row-end: 5;
+                    }
+                   
+                    .gallery__item--3 {
+                        grid-column-start: 1;
+                        grid-column-end: 5;
+                        grid-row-start: 5;
+                        grid-row-end: 9;
+                    }
+                    .gallery__item--4 {
+                        grid-column-start: 5;
+                        grid-column-end: 9;
+                        grid-row-start: 5;
+                        grid-row-end: 9;
+                    }
+					 h4{
+						 float:left;
+						 margin-left:70%;
+						 text-align:left;
+					}
+                   
+				
+				}
+				
+
+
+
+                        </style>
+        
+        <title>my skills</title>
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="aboutme.html">About Me</a></li>
+                <li><a href="skills.html">Skills</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+            <section>
+                <h4 style="margin-left:20%;">Here is some of my Basic skills About<br>programming languages</h4>
+            </section>
+        
+            <div class="container">
+            <div class="gallery">
+                <figure class="gallery__item gallery__item--1">
+                  <img src="images/html-logo.png" class="gallery__img" alt="Image 1">
+                  <p>I have basic knowledge about HTML</p>
+                  <p><a href="https://www.sololearn.com/Certificate/1014-4111100/pdf/"><strong>Open my Certificate</strong></a></p>
+                </figure>
+                <figure class="gallery__item gallery__item--2">
+                  <img src="images/css-logo.png" class="gallery__img" alt="Image 2">
+                  <p>i have basic knowledge about CSS</p>
+                  <p><a href="https://www.sololearn.com/Certificate/1023-4111100/pdf/"><strong>Open my Certificate</strong></a></p>
+                </figure>
+                <figure class="gallery__item gallery__item--3">
+                  <img src="images/js-logo.png" class="gallery__img" alt="Image 3">
+                  <p>I am still practicing</p>
+                  <p><a href="https://www.sololearn.com/Certificate/1024-4111100/pdf/"><strong>Open my Certificate</strong></a></p>
+                </figure>
+                <figure class="gallery__item gallery__item--4">
+                  <img src="images/php-logo.png" class="gallery__img" alt="Image 4">
+                  <p>I have basic Knowledge about PHP </p>
+                  <p><a href="https://www.sololearn.com/Certificate/1059-4111100/pdf/"><strong>Open my Certificate</strong></a></p>
+                </figure>
+               
+               
+            </div>
+        </div>
+        
+
+
+            
+        
+    
+
+    
+
+    <footer>
+        <a href="https://twitter.com/Nahomtesfamich3"><img src="images/twitter.png" alt="x"></a>
+        <a href="https://www.youtube.com/channel/UCIMHXf1qvVBxoYfWFpk9hiw?view_as=subscriber"><img src="images/youtube.png"  alt="Y"></a>
+        <a href="https://www.facebook.com/nahom.tesfamichael.90"><img src="images/facebook.png" alt="x"></a>
+        <a href="https://www.linkedin.com/in/nahom-tesfamichael-87a2a7135/"><img src="images/linkedin.png" alt="L"></a>
+        
+        <p>copyright  &copy; 2020  <i> developed by:  Nahom tesfamichael </i> All Rights reserved.</p>
+    </footer>
+</body>
+</html>
