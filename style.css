@@ -73,9 +73,9 @@ nav ul li a{
 }
 /*style for About me page*/
 #about-logo img {
-    width:20%;
-    height:10%;
-    margin:3% auto;
+    width:50%;
+    height:200px;
+    margin-left:10%;
     border: 1px solid gold;
     border-radius:7px ;
 
@@ -155,7 +155,7 @@ footer img {
 		
     
         
-    }
+    
 	body{
 		background-color:aqua;
 		opacity:1;
@@ -166,7 +166,7 @@ html{
 }
 
 		
-}
+
 
 /*.logo img{
     text-align:right;
