@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abd7f954-b208-44fe-8a6c-daf5f21b6c9a" name="Default Changelist" comment="" />
+    <list default="true" id="ca559436-376e-4e24-bf78-5db76e937622" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboume.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/github.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/github.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +17,10 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="ProjectId" id="1ie8jfMRaAlknOGIOJplRx0y5GV" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ie4l2wo3ij0TsxLGukoMsa9TVE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,21 +28,39 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="abd7f954-b208-44fe-8a6c-daf5f21b6c9a" name="Default Changelist" comment="" />
-      <created>1602256834269</created>
+      <changelist id="ca559436-376e-4e24-bf78-5db76e937622" name="Default Changelist" comment="" />
+      <created>1602254872370</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602256834269</updated>
-      <workItem from="1602256835405" duration="832000" />
+      <updated>1602254872370</updated>
+      <workItem from="1602254874201" duration="2056000" />
+      <workItem from="1602510540274" duration="428000" />
+      <workItem from="1602588933653" duration="94000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602255167272">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1602255167272" />
+    <state x="627" y="200" key="run.anything.popup" timestamp="1602510790554">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="627" y="200" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1602510790554" />
   </component>
 </project>
