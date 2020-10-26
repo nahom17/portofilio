@@ -21,7 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ca559436-376e-4e24-bf78-5db76e937622" name="Default Changelist" comment="new css style for the project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboume.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/skills.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +68,7 @@
       <workItem from="1602588933653" duration="94000" />
       <workItem from="1603703165236" duration="44000" />
       <workItem from="1603703380092" duration="2090000" />
-      <workItem from="1603707580025" duration="2095000" />
+      <workItem from="1603707580025" duration="2356000" />
     </task>
     <task id="LOCAL-00001" summary="new href link for my projects">
       <created>1603703709362</created>
@@ -110,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603712966161</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new css style for the project">
+      <created>1603713197725</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603713197725</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,14 +156,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="407" y="194" key="MultipleFileMergeDialog/0.0.1536.864@0.0.1536.864" timestamp="1603703780727" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603712970763">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603713202768">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603712970763" />
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603712953708">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603713202768" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603713183367">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1603712953708" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1603713183367" />
     <state x="627" y="200" key="run.anything.popup" timestamp="1602510790554">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
