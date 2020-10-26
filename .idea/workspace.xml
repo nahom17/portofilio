@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca559436-376e-4e24-bf78-5db76e937622" name="Default Changelist" comment="new href link for my projects">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about_me.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="ca559436-376e-4e24-bf78-5db76e937622" name="Default Changelist" comment="new href link for my projects" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +30,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1ie4l2wo3ij0TsxLGukoMsa9TVE" />
   <component name="ProjectLevelVcsManager">
@@ -66,8 +63,16 @@
       <workItem from="1602510540274" duration="428000" />
       <workItem from="1602588933653" duration="94000" />
       <workItem from="1603703165236" duration="44000" />
-      <workItem from="1603703380092" duration="311000" />
+      <workItem from="1603703380092" duration="1023000" />
     </task>
+    <task id="LOCAL-00001" summary="new href link for my projects">
+      <created>1603703709362</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603703709362</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +99,18 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1602255167272" />
+    <state x="147" y="69" key="MergeDialog" timestamp="1603703780719">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="147" y="69" key="MergeDialog/0.0.1536.864@0.0.1536.864" timestamp="1603703780719" />
+    <state x="407" y="194" key="MultipleFileMergeDialog" timestamp="1603703780727">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="407" y="194" key="MultipleFileMergeDialog/0.0.1536.864@0.0.1536.864" timestamp="1603703780727" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603703714695">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603703714695" />
     <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603703580286">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
