@@ -1,0 +1,445 @@
+Index: about_me.html
+===================================================================
+--- about_me.html	(revision 5ad19c895a0ce3248077ce02a43eace4e6ee00f5)
++++ about_me.html	(revision 5ad19c895a0ce3248077ce02a43eace4e6ee00f5)
+@@ -1,87 +0,0 @@
+-<!DOCTYPE html>
+-<html lang="Eng">
+-    <head>
+-         	<meta charset="UTF-8">
+-			<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+-			<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+-			<meta name="HandheldFriendly" content="true">  
+-            <meta name="language" content="English">
+-            <meta name="author" content="Nahom Tesfamichael">
+-            <meta name="description" content="test web">
+-            <meta name="keywords" content="HelloWorld,test">
+-            <meta name="copyright" content="copyright">
+-		<meta name="viewport" content="width=device-width, initial-scale=1">
+-		<meta name="google-site-verification" content="di5qv9vuT2YgMAV-WihyO607hGFH3Bf3_tcmxUbdRnc" />
+-        <link rel="stylesheet" href="style.css">
+-        <title>about_me</title>
+-		<style>
+-			@media only screen and (max-width:500px){
+-    nav ul li a {
+-		
+-		background-color:aqua;
+-		margin:3% ;
+-		border:1px soild white;
+-		border-radius:1pc;
+-				}
+-				footer img{
+-					width:10%;
+-					margin:3%;
+-				}
+-				#about-logo img{
+-					margin-top:10%;
+-					float:left;
+-					width:100%;
+-					height:100px;
+-				} h1{
+-					margin-left:20%;
+-				}
+-		
+-    
+-        
+-    }
+-		
+-		
+-		</style>
+-    </head>
+-    <body>
+-        <nav>
+-            <ul>
+-                <li><a href="index.html">Home</a></li>
+-                <li><a href="about_me.html">About Me</a></li>
+-                <li><a href="skills.html">Skills</a></li>
+-                <li><a href="contact.html">Contact</a></li>
+-            </ul>
+-        </nav>
+-    
+-        <div id="about-logo">
+-            <img src="images/about-logo.png" alt="eritrea" title="Eritrea's major mineral resources include natural gas, gold, copper, oil, zinc and potash. Almost 70% of the country is covered by the greenstone belt of Eritrea that has deposits of precious metals and volcanic massive sulfide">
+-            
+-       </div>
+-       <section class="introduction-section">
+-        <h1>Introduction</h1>
+-        <p>I am a refugee who passed all the strange paths to survive and build a better future. lucky I am still alive and still hard working to be boss of my self for my next future.</p>
+-        <p>I love the internet, technology, and building beautiful things.</p>
+-    </section>
+-    <section class="location-section">
+-        <h2>Where I'm From</h2>
+-        <p>I'm originally from Eritrea, From East Africa . </p>
+-    </section>
+-    <section class="questions-section">
+-        <h2>What are your favorite hobbies?</h2>
+-        <p>My favorite hobby is building app or sample games on websites and learing new things .</p>
+-        <p>photography</p>
+-        <h2>What's your dream job?</h2>
+-        <p>to be a professional application developer .</p>
+-        <h2>Why do you want to be a web developer?</h2>
+-        <p>programming is a perfect  passion for me and, I like to create new things using programming languages.</p>
+-    </section><br>
+-    <footer>
+-        <a href=""><img src="images/twitter.png" alt="x"></a>
+-        <a href="https://www.youtube.com/channel/UCIMHXf1qvVBxoYfWFpk9hiw?view_as=subscriber"><img src="images/youtube.png"  alt="Y"></a>
+-        <a href="https://www.facebook.com/nahom.tesfamichael.90"><img src="images/facebook.png" alt="x"></a>
+-        <a href="https://www.linkedin.com/in/nahom-tesfamichael-87a2a7135/"><img src="images/linkedin.png" alt="L"></a>
+-        
+-        <p>copyright  &copy; 2020  <i> developed by:  Nahom tesfamichael </i> All Rights reserved.</p>
+-    </footer>
+-</body>
+-</html>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"ca559436-376e-4e24-bf78-5db76e937622\" name=\"Default Changelist\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/aboume.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/aboume.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/contact.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/contact.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/images/github.jpg\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/images/github.jpg\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/index.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1ie4l2wo3ij0TsxLGukoMsa9TVE\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\r\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\r\n    <property name=\"node.js.path.for.package.eslint\" value=\"project\" />\r\n    <property name=\"node.js.path.for.package.tslint\" value=\"project\" />\r\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\r\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"ca559436-376e-4e24-bf78-5db76e937622\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1602254872370</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1602254872370</updated>\r\n      <workItem from=\"1602254874201\" duration=\"2056000\" />\r\n      <workItem from=\"1602510540274\" duration=\"428000\" />\r\n      <workItem from=\"1602588933653\" duration=\"94000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"223\" y=\"87\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog\" timestamp=\"1602255167272\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"864\" />\r\n    </state>\r\n    <state x=\"223\" y=\"87\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864\" timestamp=\"1602255167272\" />\r\n    <state x=\"627\" y=\"200\" key=\"run.anything.popup\" timestamp=\"1602510790554\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"864\" />\r\n    </state>\r\n    <state x=\"627\" y=\"200\" key=\"run.anything.popup/0.0.1536.864@0.0.1536.864\" timestamp=\"1602510790554\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 5ad19c895a0ce3248077ce02a43eace4e6ee00f5)
++++ .idea/workspace.xml	(date 1603700091760)
+@@ -1,13 +1,33 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="BranchesTreeState">
++    <expand>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++    </expand>
++    <select />
++  </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="ca559436-376e-4e24-bf78-5db76e937622" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++    <list default="true" id="ca559436-376e-4e24-bf78-5db76e937622" name="Default Changelist" comment="new aboutme update">
++      <change afterPath="$PROJECT_DIR$/projectsdoc/.vscode/launch.json" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/projectsdoc/game.css" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/projectsdoc/game.js" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/projectsdoc/images/back.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/projectsdoc/index.html" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/projectsdoc/projects.html" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/aboume.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboume.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/images/github.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/github.jpg" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/about_me.html" beforeDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -21,11 +41,15 @@
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="ProjectId" id="1ie4l2wo3ij0TsxLGukoMsa9TVE" />
++  <component name="ProjectLevelVcsManager">
++    <ConfirmationsSetting value="2" id="Add" />
++  </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+   <component name="PropertiesComponent">
++    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+     <property name="node.js.detected.package.eslint" value="true" />
+@@ -47,11 +71,30 @@
+       <workItem from="1602254874201" duration="2056000" />
+       <workItem from="1602510540274" duration="428000" />
+       <workItem from="1602588933653" duration="94000" />
++      <workItem from="1603377209884" duration="35000" />
++      <workItem from="1603377381990" duration="616000" />
++      <workItem from="1603699549079" duration="223000" />
++      <workItem from="1603700077347" duration="15000" />
+     </task>
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++    <option name="oldMeFiltersMigrated" value="true" />
++  </component>
++  <component name="VcsManagerConfiguration">
++    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602255167272">
+Index: projectsdoc/game.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- projectsdoc/game.js	(date 1597158379404)
++++ projectsdoc/game.js	(date 1597158379404)
+@@ -0,0 +1,38 @@
++let list = document.getElementById("gussed");
++let life = document.getElementById("chance");
++let input = document.getElementById("number");
++let HiddenNumber = 76;
++let gameOver = 0;
++let emoij = ("your Enterd numbers is");
++let like = document.getElementById("like");
++let userName = document.getElementById("name");
++window.onload = function(){
++    input.addEventListener("keyup",respondtoenter);
++}
++
++function respondtoenter(event) {
++    event.which = event.which || event.keyCode;
++    if(event.which == 13) {
++        // submit
++        
++        if (input.value != HiddenNumber) {
++            life.innerHTML = parseInt(life.innerHTML) - 1 ;
++            list.innerHTML = list.innerHTML + like.innerHTML + '<li>' + input.value + '</li>';
++            input.value = "";
++            
++        
++        } 
++            
++         else {
++            alert("wow you are perfect you got the Hidden Number");
++            input.value = "";
++            userName.value = "";
++        }
++    }
++
++    if (life.innerHTML <= gameOver) {
++        confirm(`hey ${userName.value} sorry you did not guess the secret number at given time please click ok to start new game`);
++        life.innerHTML = parseInt(life.innerHTML) + 5 ;
++        
++    }
++}
+\ No newline at end of file
+Index: projectsdoc/game.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- projectsdoc/game.css	(date 1597158127485)
++++ projectsdoc/game.css	(date 1597158127485)
+@@ -0,0 +1,55 @@
++body{
++    background-color: aqua;
++   text-align: center; 
++   position:center;
++   width:480px;
++   border:none;
++   border-radius: 5%;
++   margin-left: 30%;
++   overflow: scroll;
++
++
++}
++ul{
++    list-style: none;
++    text-align:left;
++}
++ul.strong{
++    text-emphasis: right;
++}
++
++.form{
++    color: blueviolet;
++    
++
++    
++
++}
++.box{
++    color:black;
++    border:2px solid pink;
++    background: whitesmoke;
++    border-radius: 9%;
++
++}
++.submit{
++    margin-top: 19px;
++    color: blue;
++    border-radius: 19%;
++}
++p{
++    font-weight: 300px;
++    color: black;
++}
++h1,h2,h3,h4{
++    font-weight: 700;
++}
++footer {
++    position:fixed;
++    left: 0;
++    bottom: 0;
++    width: 100%;
++    background-color:rgb(2, 87, 102);
++    color: white;
++    text-align: center; 
++}
+\ No newline at end of file
+Index: projectsdoc/projects.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- projectsdoc/projects.html	(date 1603439753353)
++++ projectsdoc/projects.html	(date 1603439753353)
+@@ -0,0 +1,44 @@
++<!DOCTYPE html>
++<html>
++<head>
++    <meta http-equiv="content-type" content="text/html"; 
++    charset="UTF-8">
++    <meta name="viewport" content="width=device-width, initial-scale=1.0">
++    <meta name="robots" content="all">
++    <meta name="language" content="English">
++    <meta name="author" content="Nahom Tesfamichael">
++    <meta name="description" content="projects">
++    <meta name="keywords" content="microbit,wireframe,app">
++    <meta name="copyright" content="copyright">
++    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
++    <link rel="stylesheet" href="game.css">
++    <title>My Projects</title>
++    <h2>My Projects</h2>
++    <div class='projects'>
++        <ul>
++            <legend>projects from Microbit</legend>
++            <li><a href="https://makecode.microbit.org/_gHiDg1Ep9ayb">BBF-METER</a></li>
++            <li><a href="https://makecode.microbit.org/_fd4cYUVbThjo">steen papier-schaar</a></li>
++            <li><a href="https://makecode.microbit.org/_hXoe7d74k5Yy">Microbit-Ruit.hex</a></li>
++            <legend>Projects from Code.org</legend>
++            <li><a href="https://studio.code.org/projects/starwars/XWfSap2FY1E-K5Ke9Lx_H1HZL21eWG1vEG4fSBenATw">ROBOT GAME</a></li>
++            <li><a href="https://studio.code.org/projects/playlab/qSdUgWMRfePLhvVbHb1AVg">THE Crazy Dianosr</a></li>
++            <legend>app project</legend>
++            <li><a href="index.html">Number Gueesing Game</a></li>
++        </ul>
++    </div>
++
++
++</head>
++<body>
++    
++    
++    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
++    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
++    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
++<script src="game.js"></script>
++<footer>
++    <h5 style="border:none; border-radius: none; background-color:none">&copy;2020 <em>developed</em> by Nahom Tesfamichael</h5>
++</footer>
++</body>
++</html>
+\ No newline at end of file
+Index: projectsdoc/.vscode/launch.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- projectsdoc/.vscode/launch.json	(date 1599467003088)
++++ projectsdoc/.vscode/launch.json	(date 1599467003088)
+@@ -0,0 +1,22 @@
++{
++    // Use IntelliSense to learn about possible attributes.
++    // Hover to view descriptions of existing attributes.
++    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
++    "version": "0.2.0",
++    "configurations": [
++        {
++            "name": "Attach to Chrome",
++            "port": 9222,
++            "request": "attach",
++            "type": "pwa-chrome",
++            "webRoot": "${workspaceFolder}"
++        },
++        {
++            "type": "chrome",
++            "request": "launch",
++            "name": "Launch Chrome against localhost",
++            "url": "http://localhost:8080",
++            "webRoot": "${workspaceFolder}"
++        }
++    ]
++}
+\ No newline at end of file
+Index: projectsdoc/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- projectsdoc/index.html	(date 1597158221189)
++++ projectsdoc/index.html	(date 1597158221189)
+@@ -0,0 +1,52 @@
++<!DOCTYPE html>
++<html>
++<head>
++    <meta http-equiv="content-type" content="text/html"; 
++    charset="UTF-8">
++    <meta name="viewport" content="width=device-width, initial-scale=1.0">
++    <meta name="robots" content="all">
++    <meta name="language" content="English">
++    <meta name="author" content="Nahom Tesfamichael">
++    <meta name="description" content="guess Number Game">
++    <meta name="keywords" content="number,name,chance,gussed">
++    <meta name="copyright" content="copyright">
++    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
++    <link rel="stylesheet" href="game.css">
++    <title>Number Guessing game</title>
++
++
++</head>
++<body>
++    <h1>Number Guessing Game</h1>
++    <p>Try and guess a random a number between 1 and 100</p>
++    <p>you have 5 attempts to guess the right number</p>
++    <div class="guesses">
++        
++       <h5>Guesses Remaining</h5><br>
++        <h4 id="chance">  5 </h4><h1 style="color:red;font-size:50px;">&hearts;</h1>
++
++    </div>
++    <div class="box">
++        <form class="form">
++            <h4>Guess a Number</h4><br>
++            <label for="name">hey well-come to this game app please enter you name</label><br>
++            <input type="text"  id="name" name="UserName"  placeholder="Your Name"><br>
++            
++            <label for="number">Enter the Number below</label><br>
++            <input type="number"  id="number" name="number"  placeholder="from 1 to 100"><br>
++        </form>
++        <h4>the Numbers You gussed</h4>
++        <ul id="gussed">
++        <br><div id="like"><strong style="text-align:left; margin-right: 90px;">&#128553;</strong></div>
++        </ul>
++    </div>
++    
++    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
++    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
++    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
++<script src="game.js"></script>
++<footer>
++    <h5 style="border:none; border-radius: none; background-color:none">&copy;2020 <em>developed</em> by Nahom Tesfamichael</h5>
++</footer>
++</body>
++</html>
+\ No newline at end of file

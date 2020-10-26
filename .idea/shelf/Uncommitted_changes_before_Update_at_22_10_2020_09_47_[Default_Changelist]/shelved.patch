@@ -1,0 +1,313 @@
+Index: skills.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"Eng\">\r\n    <head>\r\n        \t<meta charset=\"UTF-8\">\r\n\t\t\t<meta name=\"viewport\" content=\"width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no\">\r\n\t\t\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\r\n\t\t\t<meta name=\"HandheldFriendly\" content=\"true\">\r\n            <meta name=\"language\" content=\"English\">\r\n            <meta name=\"author\" content=\"Nahom Tesfamichael\">\r\n            <meta name=\"description\" content=\"test web\">\r\n            <meta name=\"keywords\" content=\"HelloWorld,test\">\r\n            <meta name=\"copyright\" content=\"copyright\">\r\n\t\t\t<meta name=\"google-site-verification\" content=\"di5qv9vuT2YgMAV-WihyO607hGFH3Bf3_tcmxUbdRnc\" />\r\n        \r\n            <link rel=\"stylesheet\" href=\"style.css\">\r\n            <style>\r\n                .gallery {\r\n                    display: grid;\r\n                    grid-template-columns: repeat(8, 1fr);\r\n                    grid-template-rows: repeat(8, 5vm);\r\n                    grid-gap:1px;\r\n                    margin-left:10%;\r\n                    margin-top:0%;\r\n                    margin-bottom: 0%;\r\n                }\r\n                .gallery__img {\r\n                    max-width:100%;\r\n\t\t\t\t\t\r\n                  \r\n\t\t\t\t} a{\r\n\t\t\t\t\tcolor:blue;\r\n\t\t\t\t}\r\n\t\t\t\t\r\n                /*this help us to define the where should the item palced */\r\n                .gallery__item--1 {\r\n                        grid-column-start: 1;\r\n                        grid-column-end: 3;\r\n                        grid-row-start: 1;\r\n                        grid-row-end: 3;\r\n                }\r\n                .gallery__item--2 {\r\n                        grid-column-start: 3;\r\n                        grid-column-end: 5;\r\n                        grid-row-start: 1;\r\n                        grid-row-end: 3;\r\n                    }\r\n                   \r\n                    .gallery__item--3 {\r\n                        grid-column-start: 5;\r\n                        grid-column-end: 7;\r\n                        grid-row-start: 1;\r\n                        grid-row-end: 3;\r\n                    }\r\n                    .gallery__item--4 {\r\n                        grid-column-start: 1;\r\n                        grid-column-end: 3;\r\n                        grid-row-start: 4;\r\n                        grid-row-end: 6;\r\n                    }\r\n                    .gallery__item--5 {\r\n                        grid-column-start: 3;\r\n                        grid-column-end: 5;\r\n                        grid-row-start: 4;\r\n                        grid-row-end: 6;\r\n                    }\r\n\t\t\t\t@media only screen and (max-width:500px){\r\n\t\t\t\t\t.gallery {\r\n\t\t\t\t\t\tbackground-color:none;\r\n\t\t\t\t\t\twidth:100%;\r\n\t\t\t\t\t\theight:100%;\r\n\t\t\t\t\t\topacity:1.6;\r\n\t\t\t\t\t} \r\n\t\t\t\t\t \r\n\t\t\t\t\t\t   .gallery__item--1 {\r\n                        grid-column-start: 1;\r\n                        grid-column-end: 5;\r\n                        grid-row-start: 1;\r\n                        grid-row-end: 5;\r\n                }\r\n                .gallery__item--2 {\r\n                        grid-column-start: 5;\r\n                        grid-column-end: 9;\r\n                        grid-row-start: 1;\r\n                        grid-row-end: 5;\r\n                    }\r\n                   \r\n                    .gallery__item--3 {\r\n                        grid-column-start: 1;\r\n                        grid-column-end: 5;\r\n                        grid-row-start: 5;\r\n                        grid-row-end: 9;\r\n                    }\r\n                    .gallery__item--4 {\r\n                        grid-column-start: 5;\r\n                        grid-column-end: 9;\r\n                        grid-row-start: 5;\r\n                        grid-row-end: 9;\r\n                    }\r\n\t\t\t\t\t h4{\r\n\t\t\t\t\t\t float:left;\r\n\t\t\t\t\t\t margin-left:70%;\r\n\t\t\t\t\t\t text-align:left;\r\n\t\t\t\t\t}\r\n                   \r\n\t\t\t\t\r\n\t\t\t\t}\r\n\t\t\t\t\r\n\r\n\r\n\r\n                        </style>\r\n        \r\n        <title>my skills</title>\r\n    </head>\r\n    <body>\r\n        <nav>\r\n            <ul>\r\n                <li><a href=\"index.html\">Home</a></li>\r\n                <li><a href=\"aboutme.html\">About Me</a></li>\r\n                <li><a href=\"skills.html\">Skills</a></li>\r\n                <li><a href=\"contact.html\">Contact</a></li>\r\n            </ul>\r\n        </nav>\r\n            <section>\r\n                <h4 style=\"margin-left:20%;\">Here is some of my Basic skills About<br>programming languages</h4>\r\n            </section>\r\n        \r\n            <div class=\"container\">\r\n            <div class=\"gallery\">\r\n                <figure class=\"gallery__item gallery__item--1\">\r\n                  <img src=\"images/html-logo.png\" class=\"gallery__img\" alt=\"Image 1\">\r\n                  <p>I have basic knowledge about HTML</p>\r\n                  <p><a href=\"https://www.sololearn.com/Certificate/1014-4111100/pdf/\"><strong>Open my Certificate</strong></a></p>\r\n                </figure>\r\n                <figure class=\"gallery__item gallery__item--2\">\r\n                  <img src=\"images/css-logo.png\" class=\"gallery__img\" alt=\"Image 2\">\r\n                  <p>i have basic knowledge about CSS</p>\r\n                  <p><a href=\"https://www.sololearn.com/Certificate/1023-4111100/pdf/\"><strong>Open my Certificate</strong></a></p>\r\n                </figure>\r\n                <figure class=\"gallery__item gallery__item--3\">\r\n                  <img src=\"images/js-logo.png\" class=\"gallery__img\" alt=\"Image 3\">\r\n                  <p>I am still practicing</p>\r\n                  <p><a href=\"https://www.sololearn.com/Certificate/1024-4111100/pdf/\"><strong>Open my Certificate</strong></a></p>\r\n                </figure>\r\n                <figure class=\"gallery__item gallery__item--4\">\r\n                  <img src=\"images/php-logo.png\" class=\"gallery__img\" alt=\"Image 4\">\r\n                  <p>I have basic Knowledge about PHP </p>\r\n                  <p><a href=\"https://www.sololearn.com/Certificate/1059-4111100/pdf/\"><strong>Open my Certificate</strong></a></p>\r\n                </figure>\r\n               \r\n               \r\n            </div>\r\n        </div>\r\n        \r\n\r\n\r\n            \r\n        \r\n    \r\n\r\n    \r\n\r\n    <footer>\r\n        <a href=\"https://twitter.com/Nahomtesfamich3\"><img src=\"images/twitter.png\" alt=\"x\"></a>\r\n        <a href=\"https://www.youtube.com/channel/UCIMHXf1qvVBxoYfWFpk9hiw?view_as=subscriber\"><img src=\"images/youtube.png\"  alt=\"Y\"></a>\r\n        <a href=\"https://www.facebook.com/nahom.tesfamichael.90\"><img src=\"images/facebook.png\" alt=\"x\"></a>\r\n        <a href=\"https://www.linkedin.com/in/nahom-tesfamichael-87a2a7135/\"><img src=\"images/linkedin.png\" alt=\"L\"></a>\r\n        \r\n        <p>copyright  &copy; 2020  <i> developed by:  Nahom tesfamichael </i> All Rights reserved.</p>\r\n    </footer>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- skills.html	(revision 075dbac2ac283a8cae311d56fafdd3d4bc2e304b)
++++ skills.html	(date 1602592896165)
+@@ -27,9 +27,11 @@
+                     max-width:100%;
+ 					
+                   
+-				} a{
+-					color:blue;
+ 				}
++
++                p a {
++                    color: aliceblue;
++                }
+ 				
+                 /*this help us to define the where should the item palced */
+                 .gallery__item--1 {
+Index: aboume.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"Eng\">\r\n    <head>\r\n         \t<meta charset=\"UTF-8\">\r\n\t\t\t<meta name=\"viewport\" content=\"width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no\">\r\n\t\t\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\r\n\t\t\t<meta name=\"HandheldFriendly\" content=\"true\">  \r\n            <meta name=\"language\" content=\"English\">\r\n            <meta name=\"author\" content=\"Nahom Tesfamichael\">\r\n            <meta name=\"description\" content=\"test web\">\r\n            <meta name=\"keywords\" content=\"HelloWorld,test\">\r\n            <meta name=\"copyright\" content=\"copyright\">\r\n\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n\t\t<meta name=\"google-site-verification\" content=\"di5qv9vuT2YgMAV-WihyO607hGFH3Bf3_tcmxUbdRnc\" />\r\n        <link rel=\"stylesheet\" href=\"style.css\">\r\n        <title>about_me</title>\r\n\t\t<style>\r\n\t\t\t@media only screen and (max-width:500px){\r\n    nav ul li a {\r\n\t\t\r\n\t\tbackground-color:aqua;\r\n\t\tmargin:3% ;\r\n\t\tborder:1px soild white;\r\n\t\tborder-radius:1pc;\r\n\t\t\t\t}\r\n\t\t\t\tfooter img{\r\n\t\t\t\t\twidth:10%;\r\n\t\t\t\t\tmargin:3%;\r\n\t\t\t\t}\r\n\t\t\t\t#about-logo img{\r\n\t\t\t\t\tmargin-top:10%;\r\n\t\t\t\t\tfloat:left;\r\n\t\t\t\t\twidth:100%;\r\n\t\t\t\t\theight:100px;\r\n\t\t\t\t} h1{\r\n\t\t\t\t\tmargin-left:20%;\r\n\t\t\t\t}\r\n\t\t\r\n    \r\n        \r\n    }\r\n\t\t\r\n\t\t\r\n\t\t</style>\r\n    </head>\r\n    <body>\r\n        <nav>\r\n            <ul>\r\n                <li><a href=\"index.html\">Home</a></li>\r\n                <li><a href=\"aboutme.html\">About Me</a></li>\r\n                <li><a href=\"skills.html\">Skills</a></li>\r\n                <li><a href=\"contact.html\">Contact</a></li>\r\n            </ul>\r\n        </nav>\r\n    \r\n        <div id=\"about-logo\">\r\n            <img src=\"images/about-logo.png\" alt=\"eritrea\" title=\"Eritrea's major mineral resources include natural gas, gold, copper, oil, zinc and potash. Almost 70% of the country is covered by the greenstone belt of Eritrea that has deposits of precious metals and volcanic massive sulfide\">\r\n            \r\n       </div>\r\n       <section class=\"introduction-section\">\r\n        <h1>Introduction</h1>\r\n        <p>I am a refugee who passed all the strange paths to survive and build a better future. lucky I am still alive and still hard working to be boss of my self for my next future.</p>\r\n        <p>I love the internet, technology, and building beautiful things.</p>\r\n    </section>\r\n    <section class=\"location-section\">\r\n        <h2>Where I'm From</h2>\r\n        <p>I'm originally from Eritrea, From East Africa . </p>\r\n    </section>\r\n    <section class=\"questions-section\">\r\n        <h2>What are your favorite hobbies?</h2>\r\n        <p>My favorite hobby is building app or sample games on websites and learing new things .</p>\r\n        <p>photography</p>\r\n        <h2>What's your dream job?</h2>\r\n        <p>to be a professional application developer .</p>\r\n        <h2>Why do you want to be a web developer?</h2>\r\n        <p>programming is a perfect  passion for me and, I like to create new things using programming languages.</p>\r\n    </section><br>\r\n    <footer>\r\n        <a href=\"\"><img src=\"images/twitter.png\" alt=\"x\"></a>\r\n        <a href=\"https://www.youtube.com/channel/UCIMHXf1qvVBxoYfWFpk9hiw?view_as=subscriber\"><img src=\"images/youtube.png\"  alt=\"Y\"></a>\r\n        <a href=\"https://www.facebook.com/nahom.tesfamichael.90\"><img src=\"images/facebook.png\" alt=\"x\"></a>\r\n        <a href=\"https://www.linkedin.com/in/nahom-tesfamichael-87a2a7135/\"><img src=\"images/linkedin.png\" alt=\"L\"></a>\r\n        \r\n        <p>copyright  &copy; 2020  <i> developed by:  Nahom tesfamichael </i> All Rights reserved.</p>\r\n    </footer>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- aboume.html	(revision 075dbac2ac283a8cae311d56fafdd3d4bc2e304b)
++++ aboume.html	(date 1602591418875)
+@@ -76,7 +76,7 @@
+         <p>programming is a perfect  passion for me and, I like to create new things using programming languages.</p>
+     </section><br>
+     <footer>
+-        <a href=""><img src="images/twitter.png" alt="x"></a>
++        <a href="https://github.com/nahom17/portofilio"><img src="images/github.jpg" alt="Git"></a>
+         <a href="https://www.youtube.com/channel/UCIMHXf1qvVBxoYfWFpk9hiw?view_as=subscriber"><img src="images/youtube.png"  alt="Y"></a>
+         <a href="https://www.facebook.com/nahom.tesfamichael.90"><img src="images/facebook.png" alt="x"></a>
+         <a href="https://www.linkedin.com/in/nahom-tesfamichael-87a2a7135/"><img src="images/linkedin.png" alt="L"></a>
+Index: about_me.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- about_me.html	(revision 075dbac2ac283a8cae311d56fafdd3d4bc2e304b)
++++ about_me.html	(revision 075dbac2ac283a8cae311d56fafdd3d4bc2e304b)
+@@ -1,87 +0,0 @@
+-<!DOCTYPE html>
+-<html lang="Eng">
+-    <head>
+-         	<meta charset="UTF-8">
+-			<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+-			<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+-			<meta name="HandheldFriendly" content="true">  
+-            <meta name="language" content="English">
+-            <meta name="author" content="Nahom Tesfamichael">
+-            <meta name="description" content="test web">
+-            <meta name="keywords" content="HelloWorld,test">
+-            <meta name="copyright" content="copyright">
+-		<meta name="viewport" content="width=device-width, initial-scale=1">
+-		<meta name="google-site-verification" content="di5qv9vuT2YgMAV-WihyO607hGFH3Bf3_tcmxUbdRnc" />
+-        <link rel="stylesheet" href="style.css">
+-        <title>about_me</title>
+-		<style>
+-			@media only screen and (max-width:500px){
+-    nav ul li a {
+-		
+-		background-color:aqua;
+-		margin:3% ;
+-		border:1px soild white;
+-		border-radius:1pc;
+-				}
+-				footer img{
+-					width:10%;
+-					margin:3%;
+-				}
+-				#about-logo img{
+-					margin-top:10%;
+-					float:left;
+-					width:100%;
+-					height:100px;
+-				} h1{
+-					margin-left:20%;
+-				}
+-		
+-    
+-        
+-    }
+-		
+-		
+-		</style>
+-    </head>
+-    <body>
+-        <nav>
+-            <ul>
+-                <li><a href="index.html">Home</a></li>
+-                <li><a href="about_me.html">About Me</a></li>
+-                <li><a href="skills.html">Skills</a></li>
+-                <li><a href="contact.html">Contact</a></li>
+-            </ul>
+-        </nav>
+-    
+-        <div id="about-logo">
+-            <img src="images/about-logo.png" alt="eritrea" title="Eritrea's major mineral resources include natural gas, gold, copper, oil, zinc and potash. Almost 70% of the country is covered by the greenstone belt of Eritrea that has deposits of precious metals and volcanic massive sulfide">
+-            
+-       </div>
+-       <section class="introduction-section">
+-        <h1>Introduction</h1>
+-        <p>I am a refugee who passed all the strange paths to survive and build a better future. lucky I am still alive and still hard working to be boss of my self for my next future.</p>
+-        <p>I love the internet, technology, and building beautiful things.</p>
+-    </section>
+-    <section class="location-section">
+-        <h2>Where I'm From</h2>
+-        <p>I'm originally from Eritrea, From East Africa . </p>
+-    </section>
+-    <section class="questions-section">
+-        <h2>What are your favorite hobbies?</h2>
+-        <p>My favorite hobby is building app or sample games on websites and learing new things .</p>
+-        <p>photography</p>
+-        <h2>What's your dream job?</h2>
+-        <p>to be a professional application developer .</p>
+-        <h2>Why do you want to be a web developer?</h2>
+-        <p>programming is a perfect  passion for me and, I like to create new things using programming languages.</p>
+-    </section><br>
+-    <footer>
+-        <a href=""><img src="images/twitter.png" alt="x"></a>
+-        <a href="https://www.youtube.com/channel/UCIMHXf1qvVBxoYfWFpk9hiw?view_as=subscriber"><img src="images/youtube.png"  alt="Y"></a>
+-        <a href="https://www.facebook.com/nahom.tesfamichael.90"><img src="images/facebook.png" alt="x"></a>
+-        <a href="https://www.linkedin.com/in/nahom-tesfamichael-87a2a7135/"><img src="images/linkedin.png" alt="L"></a>
+-        
+-        <p>copyright  &copy; 2020  <i> developed by:  Nahom tesfamichael </i> All Rights reserved.</p>
+-    </footer>
+-</body>
+-</html>
+\ No newline at end of file
+Index: projects.html
+===================================================================
+--- projects.html	(date 1603282973764)
++++ projects.html	(date 1603282973764)
+@@ -0,0 +1,42 @@
++<!DOCTYPE html>
++<html>
++<head>
++    <meta http-equiv="content-type" content="text/html"; 
++    charset="UTF-8">
++    <meta name="viewport" content="width=device-width, initial-scale=1.0">
++    <meta name="robots" content="all">
++    <meta name="language" content="English">
++    <meta name="author" content="Nahom Tesfamichael">
++    <meta name="description" content="projects">
++    <meta name="keywords" content="microbit,wireframe,app">
++    <meta name="copyright" content="copyright">
++    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
++    <link rel="stylesheet" href="game.css">
++    <title>My Projects</title>
++    <h2>My Projects</h2>
++    <div class='projects'>
++        <ul>
++            <legend>projects from Microbit</legend>
++            <li><a href="https://makecode.microbit.org/_gHiDg1Ep9ayb">BBF-METER</a></li>
++            <li><a href="https://makecode.microbit.org/_fd4cYUVbThjo">steen papier-schaar</a></li>
++            <li><a href="https://makecode.microbit.org/_hXoe7d74k5Yy">Microbit-Ruit.hex</a></li>
++            <legend>Projects from Code.org</legend>
++            <li><a href="https://studio.code.org/projects/starwars/XWfSap2FY1E-K5Ke9Lx_H1HZL21eWG1vEG4fSBenATw">ROBOT GAME</a></li>
++            <li><a href="https://studio.code.org/projects/playlab/qSdUgWMRfePLhvVbHb1AVg">THE Crazy Dianosr</a></li>
++        </ul>
++    </div>
++
++
++</head>
++<body>
++    
++    
++    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
++    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
++    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
++<script src="game.js"></script>
++<footer>
++    <h5 style="border:none; border-radius: none; background-color:none">&copy;2020 <em>developed</em> by Nahom Tesfamichael</h5>
++</footer>
++</body>
++</html>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"ca559436-376e-4e24-bf78-5db76e937622\" name=\"Default Changelist\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/aboume.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/aboume.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/contact.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/contact.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/images/github.jpg\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/images/github.jpg\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/index.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1ie4l2wo3ij0TsxLGukoMsa9TVE\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\r\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\r\n    <property name=\"node.js.path.for.package.eslint\" value=\"project\" />\r\n    <property name=\"node.js.path.for.package.tslint\" value=\"project\" />\r\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\r\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"ca559436-376e-4e24-bf78-5db76e937622\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1602254872370</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1602254872370</updated>\r\n      <workItem from=\"1602254874201\" duration=\"2056000\" />\r\n      <workItem from=\"1602510540274\" duration=\"428000\" />\r\n      <workItem from=\"1602588933653\" duration=\"94000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"223\" y=\"87\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog\" timestamp=\"1602255167272\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"864\" />\r\n    </state>\r\n    <state x=\"223\" y=\"87\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864\" timestamp=\"1602255167272\" />\r\n    <state x=\"627\" y=\"200\" key=\"run.anything.popup\" timestamp=\"1602510790554\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"864\" />\r\n    </state>\r\n    <state x=\"627\" y=\"200\" key=\"run.anything.popup/0.0.1536.864@0.0.1536.864\" timestamp=\"1602510790554\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 075dbac2ac283a8cae311d56fafdd3d4bc2e304b)
++++ .idea/workspace.xml	(date 1602592896235)
+@@ -1,13 +1,31 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="BranchesTreeState">
++    <expand>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++    </expand>
++    <select />
++  </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="ca559436-376e-4e24-bf78-5db76e937622" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++    <list default="true" id="ca559436-376e-4e24-bf78-5db76e937622" name="Default Changelist" comment="new aboutme update">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/aboume.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboume.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/images/github.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/github.jpg" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/about_me.html" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/images/github.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/github.png" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/skills.html" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -21,11 +39,15 @@
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="ProjectId" id="1ie4l2wo3ij0TsxLGukoMsa9TVE" />
++  <component name="ProjectLevelVcsManager">
++    <ConfirmationsSetting value="2" id="Add" />
++  </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+   <component name="PropertiesComponent">
++    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+     <property name="node.js.detected.package.eslint" value="true" />
+@@ -46,18 +68,63 @@
+       <updated>1602254872370</updated>
+       <workItem from="1602254874201" duration="2056000" />
+       <workItem from="1602510540274" duration="428000" />
+-      <workItem from="1602588933653" duration="94000" />
++      <workItem from="1602588933653" duration="898000" />
++      <workItem from="1602591320089" duration="940000" />
++    </task>
++    <task id="LOCAL-00001" summary="new aboutme update">
++      <created>1602589116124</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1602589116124</updated>
++    </task>
++    <task id="LOCAL-00002" summary="new aboutme update">
++      <created>1602589462355</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1602589462355</updated>
+     </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++    <option name="oldMeFiltersMigrated" value="true" />
++  </component>
++  <component name="VcsManagerConfiguration">
++    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
++    <MESSAGE value="new aboutme update" />
++    <option name="LAST_COMMIT_MESSAGE" value="new aboutme update" />
+   </component>
+   <component name="WindowStateProjectService">
+-    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602255167272">
++    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602592892659">
++      <screen x="0" y="0" width="1536" height="864" />
++    </state>
++    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1602592892659" />
++    <state x="701" y="192" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602592862059">
++      <screen x="0" y="0" width="1536" height="864" />
++    </state>
++    <state x="701" y="192" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1602592862059" />
++    <state x="609" y="208" key="MultipleFileMergeDialog" timestamp="1602589823892">
+       <screen x="0" y="0" width="1536" height="864" />
+     </state>
+-    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1602255167272" />
++    <state x="609" y="208" key="MultipleFileMergeDialog/0.0.1536.864@0.0.1536.864" timestamp="1602589823892" />
++    <state x="788" y="360" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602589064533">
++      <screen x="0" y="0" width="1536" height="864" />
++    </state>
++    <state x="788" y="360" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1602589064533" />
+     <state x="627" y="200" key="run.anything.popup" timestamp="1602510790554">
+       <screen x="0" y="0" width="1536" height="864" />
+     </state>
