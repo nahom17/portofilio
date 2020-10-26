@@ -1,52 +1,73 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <meta http-equiv="content-type" content="text/html"; 
-    charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="robots" content="all">
-    <meta name="language" content="English">
-    <meta name="author" content="Nahom Tesfamichael">
-    <meta name="description" content="guess Number Game">
-    <meta name="keywords" content="number,name,chance,gussed">
-    <meta name="copyright" content="copyright">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link rel="stylesheet" href="game.css">
-    <title>Number Guessing game</title>
-
-
-</head>
-<body>
-    <h1>Number Guessing Game</h1>
-    <p>Try and guess a random a number between 1 and 100</p>
-    <p>you have 5 attempts to guess the right number</p>
-    <div class="guesses">
-        
-       <h5>Guesses Remaining</h5><br>
-        <h4 id="chance">  5 </h4><h1 style="color:red;font-size:50px;">&hearts;</h1>
-
-    </div>
-    <div class="box">
-        <form class="form">
-            <h4>Guess a Number</h4><br>
-            <label for="name">hey well-come to this game app please enter you name</label><br>
-            <input type="text"  id="name" name="UserName"  placeholder="Your Name"><br>
+<html lang="Eng">
+    <head>
+        <meta http-equiv="content-Type"
+			content="text/html";
+            charset="UTF-8">
+            <meta name="robots" content="all">
+            <meta name="language" content="English">
+            <meta name="author" content="Nahom Tesfamichael">
+            <meta name="description" content="test web">
+            <meta name="keywords" content="HelloWorld,test">
+            <meta name="copyright" content="copyright">
+        <link rel="stylesheet" href="style.css">
+        <style>
+            #hello{
+                font-size: 1.5em;
+                font-weight: small;
+                color:black;
+                text-align: center;
             
-            <label for="number">Enter the Number below</label><br>
-            <input type="number"  id="number" name="number"  placeholder="from 1 to 100"><br>
-        </form>
-        <h4>the Numbers You gussed</h4>
-        <ul id="gussed">
-        <br><div id="like"><strong style="text-align:left; margin-right: 90px;">&#128553;</strong></div>
-        </ul>
-    </div>
+            }
+			.logo img{
+				width:200px;
+				height:200px;
+				border:1pc solid gold;
+				border-radius:7pc;
+			}
+			@media only screen and (max-width:500px){
+    nav ul li  {
+		border:none !important;
+		background-color:aqua ;
+		margin:3%; 
+	}
+			}
+        </style>
+        <title>Nahom Portofilio</title>
+        
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="aboutme.html">About Me</a></li>
+                <li><a href="skills.html">Skills</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <br>
+        <br>
+        <br>
     
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-<script src="game.js"></script>
-<footer>
-    <h5 style="border:none; border-radius: none; background-color:none">&copy;2020 <em>developed</em> by Nahom Tesfamichael</h5>
-</footer>
+        <div class="logo">
+            <img src="images/nahom-home.jpg"></div><br>
+            <h1 style="font-family: Georgia, 'Times New Roman', Times, serif; color:black; margin-left: 40%;"><strong>NAHOM CREATIVITY</strong></h1><br>
+            <div id="hello">
+                <p>Hi there! My name is Nahom Tesfamichael and I am currently studying Software Developer at Alfa-College, in Groningen. This is my first website which I have created with pure HTML and CSS. </p>
+            </div>
+            <h2 style="font-family: Georgia, 'Times New Roman', Times, serif; color: rgb(243, 247, 242); margin-left: 50%;"><br><a href="cv2020.pdf">MY CV</a></h2>
+
+    
+        
+    
+
+    <footer>
+        <a href="https://twitter.com/Nahomtesfamich3"><img src="images/twitter.png" alt="x"></a>
+        <a href="https://www.youtube.com/channel/UCIMHXf1qvVBxoYfWFpk9hiw?view_as=subscriber"><img src="images/youtube.png"  alt="Y"></a>
+        <a href="https://www.facebook.com/nahom.tesfamichael.90"><img src="images/facebook.png" alt="x"></a>
+        <a href="https://www.linkedin.com/in/nahom-tesfamichael-87a2a7135/"><img src="images/linkedin.png" alt="L"></a>
+        
+        <p>copyright  &copy; 2020  <i> developed by:  Nahom tesfamichael </i> All Rights reserved.</p>
+    </footer>
 </body>
 </html>
