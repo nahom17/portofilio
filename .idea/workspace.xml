@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca559436-376e-4e24-bf78-5db76e937622" name="Default Changelist" comment="new nav bar">
+    <list default="true" id="ca559436-376e-4e24-bf78-5db76e937622" name="Default Changelist" comment="new updte">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboume.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutme.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,7 @@
       <workItem from="1603703380092" duration="2090000" />
       <workItem from="1603707580025" duration="3467000" />
       <workItem from="1603714918920" duration="1381000" />
-      <workItem from="1603784290198" duration="679000" />
+      <workItem from="1603784290198" duration="1025000" />
     </task>
     <task id="LOCAL-00001" summary="new href link for my projects">
       <created>1603703709362</created>
@@ -238,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603784511463</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="new updte">
+      <created>1603785166106</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1603785166107</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,7 +272,8 @@
     <MESSAGE value="updated" />
     <MESSAGE value="updated about me logo" />
     <MESSAGE value="new @media qurey css" />
-    <option name="LAST_COMMIT_MESSAGE" value="new @media qurey css" />
+    <MESSAGE value="new updte" />
+    <option name="LAST_COMMIT_MESSAGE" value="new updte" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602255167272">
@@ -281,14 +288,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="407" y="194" key="MultipleFileMergeDialog/0.0.1536.864@0.0.1536.864" timestamp="1603703780727" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603784522190">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603785239252">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603784522190" />
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603715852761">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603785239252" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603785126032">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1603715852761" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1603785126032" />
     <state x="627" y="200" key="run.anything.popup" timestamp="1602510790554">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
