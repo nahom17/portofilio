@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca559436-376e-4e24-bf78-5db76e937622" name="Default Changelist" comment="new updte">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game.html" beforeDir="false" afterPath="$PROJECT_DIR$/game.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="ca559436-376e-4e24-bf78-5db76e937622" name="Default Changelist" comment="new updte" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +29,12 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ie4l2wo3ij0TsxLGukoMsa9TVE" />
@@ -80,7 +81,7 @@
       <workItem from="1603792221920" duration="545000" />
       <workItem from="1603798487990" duration="621000" />
       <workItem from="1603894039553" duration="400000" />
-      <workItem from="1603957224534" duration="2683000" />
+      <workItem from="1603957224534" duration="2825000" />
     </task>
     <task id="LOCAL-00001" summary="new href link for my projects">
       <created>1603703709362</created>
@@ -257,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603785345338</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="new style in the style.css&#10;hover&#10;active&#10;visited&#10;more">
+      <created>1603966427385</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1603966427385</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +294,8 @@
     <MESSAGE value="updated about me logo" />
     <MESSAGE value="new @media qurey css" />
     <MESSAGE value="new updte" />
-    <option name="LAST_COMMIT_MESSAGE" value="new updte" />
+    <MESSAGE value="new style in the style.css&#10;hover&#10;active&#10;visited&#10;more" />
+    <option name="LAST_COMMIT_MESSAGE" value="new style in the style.css&#10;hover&#10;active&#10;visited&#10;more" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="73" key="#Plugins" timestamp="1603792764548">
@@ -309,14 +318,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="407" y="194" key="MultipleFileMergeDialog/0.0.1536.864@0.0.1536.864" timestamp="1603703780727" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603785352493">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603966463781">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603785352493" />
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603957862815">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603966463781" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603966374522">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1603957862815" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1603966374522" />
     <state x="627" y="200" key="run.anything.popup" timestamp="1602510790554">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
