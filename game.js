@@ -1,7 +1,7 @@
 let list = document.getElementById("gussed");
 let life = document.getElementById("chance");
 let input = document.getElementById("number");
-let HiddenNumber = 76;
+let HiddenNumber =77;
 let gameOver = 0;
 let emoij = ("your Enterd numbers is");
 let like = document.getElementById("like");
