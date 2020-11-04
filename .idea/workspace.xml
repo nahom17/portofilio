@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca559436-376e-4e24-bf78-5db76e937622" name="Default Changelist" comment="new update for css">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutme.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +92,7 @@
       <workItem from="1604393617490" duration="644000" />
       <workItem from="1604402111081" duration="1614000" />
       <workItem from="1604481935335" duration="2065000" />
-      <workItem from="1604488974147" duration="2599000" />
+      <workItem from="1604488974147" duration="3874000" />
     </task>
     <task id="LOCAL-00001" summary="new href link for my projects">
       <created>1603703709362</created>
@@ -317,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604491964470</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="new update for css">
+      <created>1604492098051</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1604492098051</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,6 +382,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1604324222311" />
+    <state x="499" y="353" key="GitCloneDialog" timestamp="1604493025572">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="353" key="GitCloneDialog/0.0.1536.864@0.0.1536.864" timestamp="1604493025572" />
     <state x="147" y="69" key="MergeDialog" timestamp="1603703780719">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -386,14 +398,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1604393855334" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604492036876">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604493421673">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1604492036876" />
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604492029392">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1604493421673" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604493408322">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1604492029392" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1604493408322" />
     <state x="627" y="200" key="run.anything.popup" timestamp="1604324220205">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
