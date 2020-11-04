@@ -20,12 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca559436-376e-4e24-bf78-5db76e937622" name="Default Changelist" comment="new update for css">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_09_15_[Default_Changelist]/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_09_15_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2020_09_15__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboume.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutme.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game.html" beforeDir="false" afterPath="$PROJECT_DIR$/game.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectsdoc/game.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/skills.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +98,11 @@
       <workItem from="1603957224534" duration="3106000" />
       <workItem from="1603966849420" duration="142000" />
       <workItem from="1604044418470" duration="1375000" />
-      <workItem from="1604320717748" duration="792000" />
+      <workItem from="1604320717748" duration="3480000" />
+      <workItem from="1604393617490" duration="644000" />
+      <workItem from="1604402111081" duration="1614000" />
+      <workItem from="1604481935335" duration="2065000" />
+      <workItem from="1604488974147" duration="2438000" />
     </task>
     <task id="LOCAL-00001" summary="new href link for my projects">
       <created>1603703709362</created>
@@ -289,7 +300,28 @@
       <option name="project" value="LOCAL" />
       <updated>1603966951156</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="new updated for every page">
+      <created>1604321563672</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1604321563672</updated>
+    </task>
+    <task id="LOCAL-00030" summary="new updated for every page">
+      <created>1604322319649</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1604322319649</updated>
+    </task>
+    <task id="LOCAL-00031" summary="new comment in the style.css">
+      <created>1604403103314</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1604403103314</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,7 +352,9 @@
     <MESSAGE value="new updte" />
     <MESSAGE value="new style in the style.css&#10;hover&#10;active&#10;visited&#10;more" />
     <MESSAGE value="new update for css" />
-    <option name="LAST_COMMIT_MESSAGE" value="new update for css" />
+    <MESSAGE value="new updated for every page" />
+    <MESSAGE value="new comment in the style.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="new comment in the style.css" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="73" key="#Plugins" timestamp="1603792764548">
@@ -339,6 +373,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="147" y="69" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1603966981620" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1604324222311">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1604324222311" />
     <state x="147" y="69" key="MergeDialog" timestamp="1603703780719">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -347,17 +385,25 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="407" y="194" key="MultipleFileMergeDialog/0.0.1536.864@0.0.1536.864" timestamp="1603703780727" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603966983681">
+    <state x="604" y="356" key="NewPhpFileDialog" timestamp="1604393855334">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603966983681" />
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603966917154">
+    <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1604393855334" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604403112032">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1603966917154" />
-    <state x="627" y="200" key="run.anything.popup" timestamp="1602510790554">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1604403112032" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604403057940">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="627" y="200" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1602510790554" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1604403057940" />
+    <state x="627" y="200" key="run.anything.popup" timestamp="1604324220205">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="627" y="200" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1604324220205" />
+    <state x="561" y="291" key="scopes" timestamp="1604490679914">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="561" y="291" key="scopes/0.0.1536.864@0.0.1536.864" timestamp="1604490679914" />
   </component>
 </project>
