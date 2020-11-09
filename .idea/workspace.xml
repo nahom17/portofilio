@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca559436-376e-4e24-bf78-5db76e937622" name="Default Changelist" comment="new update for css">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="PHP" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -64,6 +65,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\phpbasic" />
       <recent name="C:\xampp\htdocs\portofilio" />
     </key>
   </component>
@@ -93,7 +95,11 @@
       <workItem from="1604393617490" duration="644000" />
       <workItem from="1604402111081" duration="1614000" />
       <workItem from="1604481935335" duration="2065000" />
-      <workItem from="1604488974147" duration="5877000" />
+      <workItem from="1604488974147" duration="6082000" />
+      <workItem from="1604588790677" duration="1216000" />
+      <workItem from="1604650693102" duration="692000" />
+      <workItem from="1604661625927" duration="347000" />
+      <workItem from="1604911531713" duration="292000" />
     </task>
     <task id="LOCAL-00001" summary="new href link for my projects">
       <created>1603703709362</created>
@@ -340,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604494182653</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="new update for css">
+      <created>1604495641969</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1604495641969</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,10 +406,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="147" y="69" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1603966981620" />
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1604324222311">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1604661708101">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1604324222311" />
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1604661708101" />
     <state x="499" y="353" key="GitCloneDialog" timestamp="1604493025572">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -413,14 +426,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1604393855334" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604495156441">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604911701674">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1604495156441" />
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604495152902">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1604911701674" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604911697049">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1604495152902" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1604911697049" />
     <state x="627" y="200" key="run.anything.popup" timestamp="1604324220205">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
