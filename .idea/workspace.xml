@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca559436-376e-4e24-bf78-5db76e937622" name="Default Changelist" comment="new social media font updates" />
+    <list default="true" id="ca559436-376e-4e24-bf78-5db76e937622" name="Default Changelist" comment="new social media font updates">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutme.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,6 +100,8 @@
       <workItem from="1604661625927" duration="347000" />
       <workItem from="1604911531713" duration="653000" />
       <workItem from="1604912318995" duration="1835000" />
+      <workItem from="1604922932547" duration="315000" />
+      <workItem from="1604929230987" duration="91000" />
     </task>
     <task id="LOCAL-00001" summary="new href link for my projects">
       <created>1603703709362</created>
@@ -409,6 +414,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="new social media font updates" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="577" y="0" key="#HTML" timestamp="1604923245623">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="577" y="0" key="#HTML/0.0.1536.864@0.0.1536.864" timestamp="1604923245623" />
     <state x="361" y="73" key="#Plugins" timestamp="1603792764548">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
