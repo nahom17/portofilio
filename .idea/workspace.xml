@@ -19,11 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca559436-376e-4e24-bf78-5db76e937622" name="Default Changelist" comment="new social media font updates">
-      <change afterPath="$PROJECT_DIR$/images/back.png" afterDir="false" />
+    <list default="true" id="ca559436-376e-4e24-bf78-5db76e937622" name="Default Changelist" comment="finally setup">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/back-Img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +107,8 @@
       <workItem from="1605865897041" duration="620000" />
       <workItem from="1606070539450" duration="107000" />
       <workItem from="1606296787274" duration="1820000" />
-      <workItem from="1606301145597" duration="725000" />
+      <workItem from="1606301145597" duration="765000" />
+      <workItem from="1606307876802" duration="1913000" />
     </task>
     <task id="LOCAL-00001" summary="new href link for my projects">
       <created>1603703709362</created>
@@ -412,7 +411,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606297137397</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="finally setup">
+      <created>1606301896509</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1606301896509</updated>
+    </task>
+    <task id="LOCAL-00045" summary="new up">
+      <created>1606309188096</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1606309188099</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,7 +460,9 @@
     <MESSAGE value="new comment in the style.css" />
     <MESSAGE value="new update for css" />
     <MESSAGE value="new social media font updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="new social media font updates" />
+    <MESSAGE value="finally setup" />
+    <MESSAGE value="new up" />
+    <option name="LAST_COMMIT_MESSAGE" value="new up" />
   </component>
   <component name="WindowStateProjectService">
     <state x="577" y="0" key="#HTML" timestamp="1604923245623">
@@ -490,14 +505,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="604" y="356" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1604393855334" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606297150232">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606309209215">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1606297150232" />
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606297124985">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1606309209215" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606301875626">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1606297124985" />
+    <state x="586" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1606301875626" />
     <state x="627" y="200" key="run.anything.popup" timestamp="1604324220205">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
